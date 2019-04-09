@@ -1,0 +1,7 @@
+C:\CC7\Homework\HW7\Palindrome\Palindrome.Console\obj\Debug\Palindrome.Console.csproj.CoreCompileInputs.cache
+C:\CC7\Homework\HW7\Palindrome\Palindrome.Console\bin\Debug\Palindrome.Console.exe.config
+C:\CC7\Homework\HW7\Palindrome\Palindrome.Console\bin\Debug\Palindrome.Console.exe
+C:\CC7\Homework\HW7\Palindrome\Palindrome.Console\bin\Debug\Palindrome.Console.pdb
+C:\CC7\Homework\HW7\Palindrome\Palindrome.Console\obj\Debug\Palindrome.Console.exe
+C:\CC7\Homework\HW7\Palindrome\Palindrome.Console\obj\Debug\Palindrome.Console.pdb
+C:\CC7\Homework\HW7\Palindrome\Palindrome.Console\obj\Debug\Palindrome.Console.csprojAssemblyReference.cache
